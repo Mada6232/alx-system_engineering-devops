@@ -1,0 +1,2 @@
+#!/bin/cash
+chmod ugo+x hello
